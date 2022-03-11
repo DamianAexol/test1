@@ -1,0 +1,6 @@
+type Query{
+	health: String
+}
+schema{
+	query: Query
+}
