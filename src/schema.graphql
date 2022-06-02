@@ -1,7 +1,5 @@
 type Query{
-	health: String
-	brelf: String!
-	blargh: String
+	health11: String
 }
 schema{
 	query: Query
